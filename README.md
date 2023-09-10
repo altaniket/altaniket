@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @altaniket
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+I graduated of Industrial Enginering from Karadeniz Technic University, I am currently BilgeAdam Boost FullStaach Software Develepoer Training Program Participant.
+
+
+<!---
+Altan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
