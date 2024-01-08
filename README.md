@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Altan Tekin</h1>
-<h3 align="center">I graduated of Industrial Enginering from Karadeniz Technic University, I am currently BilgeAdam Boost FullStaach Software Develepoer Training Program Participant. This program, which will end in early March'24, the skills it has gained are: ASP.NET · ASP.NET MVC · ASP.NET Web API · .NET Core · SOLID Design Principles · C# · Microsoft SQL Server · .NET Framework · HTML5 · Cascading Style Sheets (CSS) · Object-Oriented Programming (OOP) · Entity Framework · ADO.NET · JavaScript · HTML </h3>
+<h3 align="center">I graduated of Industrial Engineering from Karadeniz Technic University, I am currently BilgeAdam Boost FullStaach Software Developer Training Program Participant. This program, which will end in early March'24, the skills it has gained are: ASP.NET · ASP.NET MVC · ASP.NET Web API · .NET Core · SOLID Design Principles · C# · Microsoft SQL Server · .NET Framework · HTML5 · Cascading Style Sheets (CSS) · Object-Oriented Programming (OOP) · Entity Framework · ADO.NET · JavaScript · HTML </h3>
 
 <p aligin="left">
 🔭 I’m currently Trainee on BilgeAdam Boost<br>
