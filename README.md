@@ -6,6 +6,7 @@
 🌱 I’m currently learning .Net Core<br>
 💬 Ask me about Asp.Net Core MVC<br>
 📫 How to reach me ialtantekin@hotmail.com<br>
+🤝 Open to project work, full-time employment and suggestions <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
